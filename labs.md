@@ -1,4 +1,4 @@
-# Labs
+# Lab Schedule
 
 The labs are intended to give you and your team a broad overview of the relevant tools and approaches for reverse engineering architectures and patterns. Most labs will consist of 10-20 mins of lecture, and then 30 mins of group work opportunity. 
 
