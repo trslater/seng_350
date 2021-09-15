@@ -35,6 +35,7 @@ you can see why. I hope.
 - The data, control, and communication mechanisms that are used?
 
 What is missing:
+
 - when and where do things exist? 
 - what is going on at runtime?
 - how do we deploy this? 
@@ -48,13 +49,11 @@ In the Model as Executable, we are actually writing the program by building the 
 
 What does an Architect do then?
 
-![](<img src="https://raw.githubusercontent.com/seng350/course/master/lectures/img/add3.jpg" alt="img" style="zoom:67%;" />
+![](https://raw.githubusercontent.com/seng350/course/master/lectures/img/add3.jpg)
 
 Another perspective on Architect and their role is from Eltjo Poort at CGI:
 
-<img src="https://eltjopoort.nl/wp-content/uploads/2019/06/5RespArch.png" style="zoom:67%;" />
-
-
+![](https://eltjopoort.nl/wp-content/uploads/2019/06/5RespArch.png)
 
 ##Anecdote: becoming an architect
 
@@ -88,7 +87,7 @@ Anyway, Michael gives 7 reasons why we care about architecture in his book.
 
 The cost of change: 
 
-![](<img src="http://www.ambysoft.com/artwork/comparingTechniques.jpg" alt="img" style="zoom:50%;" />
+![](http://www.ambysoft.com/artwork/comparingTechniques.jpg)
 
 ## Why Architecture from SAIP: (Chapter 2)
 
